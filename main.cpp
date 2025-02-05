@@ -76,6 +76,7 @@ public:
         for (int i = 0; i < count; i++) {
             cout << "- " << robots[i] << "\n";
         }
+
     }
 
     // Destructor: Free allocated memory
